@@ -90,4 +90,4 @@ const nextConfig = {
   transpilePackages: ['@stellar/stellar-sdk', '@noble/hashes', '@noble/ed25519', '@noble/curves', '@scure/base', 'uint8array-extras'],
 }
 
-export default withNextIntl(nextConfig)
+export default withNextIntl(nextConfig);
