@@ -138,4 +138,4 @@ module.exports = async () => {
       '/node_modules/(?!(@stellar/stellar-sdk|@noble|@stellar|uint8array-extras|next-intl|use-intl|@formatjs|intl-messageformat)/)',
     ],
   }
-}
+};
